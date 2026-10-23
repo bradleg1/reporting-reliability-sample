@@ -57,4 +57,4 @@ uv run pytest          # or: pip install pytest && python -m pytest
 
 ## Author
 
-Brad Legassick, AppMate Consulting (Brisbane, Australia)
+Brad Legassick, AppMate Consulting (Gold Coast, Australia)
