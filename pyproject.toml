@@ -1,0 +1,13 @@
+[project]
+name = "reporting-reliability-sample"
+version = "0.1.0"
+description = "Patterns for AI-assisted reporting that can be checked: reconciliation, checkable tool results, approval-gated execution."
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
